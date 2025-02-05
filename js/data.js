@@ -95,4 +95,15 @@ let advantages = [
     },
 ]
 
+
+
 // Opret dit dataobjekt til footerens indhold herunder
+
+
+let footer = [
+    {
+        headline: "When Passion Meets Comfort.",
+        text: "Where to shop, tour uided, our tours"
+    }
+  
+]
