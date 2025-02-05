@@ -5,7 +5,7 @@ services.forEach(service => console.log(service.headline))
 
 
 
-//hero section
+//hero section:)
 const heroSection = document.querySelector('.hero');
 function heroSpan(text, span) {
     return text.replace(span, `<span>${span}</span>`);
